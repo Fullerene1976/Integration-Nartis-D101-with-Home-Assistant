@@ -1,12 +1,8 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<style type="text/css">
-<!--
-.style1 {font-family: Arial, Helvetica, sans-serif}
-.style2 {font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
--->
-</style>
+
 <body>
 <p class="style1"><strong>Introduction</strong><br />
   This  solution is intended for owners of Nartis-I100 split electric meters, when the  meter comes with a Nartis-D101 remote display and requires the transmission of  readings to the Home Assistant.</p>
