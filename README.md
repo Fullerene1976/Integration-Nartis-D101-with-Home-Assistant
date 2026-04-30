@@ -47,12 +47,12 @@
   <tr>
     <td class="style1"><div align="center">1</div></td>
     <td class="style1"><div align="center">D23</div></td>
-    <td class="style1"><div align="center">DI   EN26S80 (5 pin)</div></td>
+    <td class="style1"><div align="center">DI   EN25S80 (5 pin)</div></td>
   </tr>
   <tr>
     <td class="style1"><div align="center">2</div></td>
     <td class="style1"><div align="center">D18</div></td>
-    <td class="style1"><div align="center">CLK   EN26S80 (6 pin)</div></td>
+    <td class="style1"><div align="center">CLK   EN25S80 (6 pin)</div></td>
   </tr>
   <tr>
     <td class="style1"><div align="center">3</div></td>
